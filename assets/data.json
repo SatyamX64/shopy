@@ -1,0 +1,62 @@
+[
+    {
+        "name": "sport shoes",
+        "price": 17000,
+        "url": "https://picsum.photos/250?image=12"
+    },
+    {
+        "name": "beach",
+        "price": 12000,
+        "url": "https://picsum.photos/250?image=1"
+    },
+    {
+        "name": "laptop",
+        "price": 40000,
+        "url": "https://picsum.photos/250?image=3"
+    },
+    {
+        "name": "boombox",
+        "price": 13400,
+        "url": "https://picsum.photos/250?image=5"
+    },
+    {
+        "name": "I Phone",
+        "price": 47800,
+        "url": "https://picsum.photos/250?image=6"
+    },
+    {
+        "name": "table tennis",
+        "price": 40000,
+        "url": "https://picsum.photos/250?image=7"
+    },
+    {
+        "name": "motorbike",
+        "price": 160000,
+        "url": "https://picsum.photos/250?image=8"
+    },
+    {
+        "name": "valley",
+        "price": 47800,
+        "url": "https://picsum.photos/250?image=2"
+    },
+    {
+        "name": "umbrella",
+        "price": 12000,
+        "url": "https://picsum.photos/250?image=9"
+    },
+    {
+        "name": "mountains",
+        "price": 160000,
+        "url": "https://picsum.photos/250?image=4"
+    },
+    {
+        "name": "volleyball",
+        "price": 4800,
+        "url": "https://picsum.photos/250?image=10"
+    },
+    {
+        "name": "frisbee",
+        "price": 50000,
+        "url": "https://picsum.photos/250?image=11"
+    }
+]
