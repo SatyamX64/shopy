@@ -6,8 +6,8 @@ import '../../data/models/item.dart';
 import '../../data/repos/cart_controller.dart';
 import 'widgets/cart_card.dart';
 
-
 class CartScreen extends StatelessWidget {
+  static const route = '/cart';
   const CartScreen({Key? key}) : super(key: key);
 
   @override

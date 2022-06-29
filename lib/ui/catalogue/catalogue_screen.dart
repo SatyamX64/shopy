@@ -4,6 +4,8 @@ import 'widgets/catalogue.dart';
 import 'widgets/number_cart.dart';
 
 class CatalogueScreen extends StatelessWidget {
+  static const route = '/catalogue';
+
   const CatalogueScreen({
     Key? key,
   }) : super(key: key);
